@@ -7,3 +7,4 @@ a = np.array([
 
 print(a)
 print(a.shape)
+print("aaaaa")
