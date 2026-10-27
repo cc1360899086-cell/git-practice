@@ -7,3 +7,5 @@ def test_shape():
     ])
 
     assert a.shape == (2, 3)
+    print(a)
+    print(a.shape)
